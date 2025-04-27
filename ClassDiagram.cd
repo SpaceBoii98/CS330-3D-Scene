@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SceneManager">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="SceneManager::OBJECT_MATERIAL" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Source\SceneManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="SceneManager::TEXTURE_INFO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Source\SceneManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIBgBBgABABaBMABQAAgQAAAQAAgAAAAMAGIAAAAIIw=</HashCode>
+      <FileName>Source\SceneManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
